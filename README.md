@@ -1,4 +1,4 @@
-#PORTFOLIO
+# PORTFOLIO
 
 Hier een overzicht van de alle folders die je gebruikt voor je opleiding. 
 Zet in elke folder, indien nodig, je opdrachten. 
